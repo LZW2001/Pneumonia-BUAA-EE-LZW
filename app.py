@@ -34,20 +34,6 @@ if __name__ == "__main__":
     app.run()
 
 
-# In[3]:
-
-
-pip install cv2
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
